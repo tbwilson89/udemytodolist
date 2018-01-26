@@ -7,5 +7,19 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "tbw",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tbwilson89/udemytodolist.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tbwilson89/udemytodolist/issues"
+  },
+  "homepage": "https://github.com/tbwilson89/udemytodolist#readme"
 }
